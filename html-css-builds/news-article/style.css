@@ -1,0 +1,29 @@
+#container {
+  font-family: Georgia;
+}
+
+h5 {
+  margin: auto;
+}
+
+#author {
+  margin: auto;
+  font-size: 11px;
+  margin-top: 2px;
+  color: darkgrey;
+}
+
+span {
+  color: brown;
+}
+
+p {
+  margin: auto;
+}
+
+#main-text {
+  margin-top: 3px;
+  font-size: 13px;
+  display: inline-block;
+  width: 59%;
+}
