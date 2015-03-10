@@ -1,0 +1,44 @@
+#container {
+  color: white;
+  font-size: 12px;
+  display: inline-block;
+  background-color: #3b5998;
+  padding: 8px;
+  font-family: Lucida Grande;
+}
+
+#login {
+  float: left;
+  padding-right: 15px;
+}
+
+#password {
+  float: left;
+  padding-right: 6px;
+}
+
+#login_button {
+  float: left;
+  padding-top: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: gainsboro;
+}
+
+#message {
+  color: gainsboro;
+  position: relative;
+  left: -4px;
+}
+
+#message2 {
+  padding-bottom: 1px;
+}
+
+input.login {
+  background-color: #3b5998;
+  border: solid black 1px;
+  color: white;
+}
